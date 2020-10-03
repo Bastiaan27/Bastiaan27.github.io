@@ -53,6 +53,8 @@ a{
 fieldset{
 	border-color: #FFF;
 	border-style: solid;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 }
 video{
 	margin-left: 50vw;
@@ -65,3 +67,26 @@ form{
 	color: #FFF;
 	text-align: center;
 }
+/* Picture directory op PC aanpassen */
+#epicsans{
+	background-image: url("D:/Webmarkup/For Fun Website/img/epicsanspic.png");
+	background-repeat: no-repeat;
+	background-size: 500px, cover;
+	background-position: center 11em;
+}
+#inksans{
+	background-image: url("D:/Webmarkup/For Fun Website/img/inksanspic.png");
+	background-repeat: no-repeat;
+	background-size: 500px, cover;
+	background-position: center 11em;
+}
+#errorsans{
+	background-image: url("D:/Webmarkup/For Fun Website/img/errorsanspic.png");
+	background-repeat: no-repeat;
+	background-size: 500px, cover;
+	background-position: center 11em;
+}
+.epicsanscolor{
+	color: #800080;
+}
+
