@@ -69,19 +69,19 @@ form{
 }
 /* Picture directory op PC aanpassen */
 #epicsans{
-	background-image: url("D:/Webmarkup/For Fun Website/img/epicsanspic.png");
+	background-image: url("../img/epicsanspic.png");
 	background-repeat: no-repeat;
 	background-size: 500px, cover;
 	background-position: center 11em;
 }
 #inksans{
-	background-image: url("D:/Webmarkup/For Fun Website/img/inksanspic.png");
+	background-image: url("../img/inksanspic.png");
 	background-repeat: no-repeat;
 	background-size: 500px, cover;
 	background-position: center 11em;
 }
 #errorsans{
-	background-image: url("D:/Webmarkup/For Fun Website/img/errorsanspic.png");
+	background-image: url("../img/errorsanspic.png");
 	background-repeat: no-repeat;
 	background-size: 500px, cover;
 	background-position: center 11em;
