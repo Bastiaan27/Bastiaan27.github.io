@@ -67,26 +67,32 @@ form{
 	color: #FFF;
 	text-align: center;
 }
-/* Picture directory op PC aanpassen */
 #epicsans{
 	background-image: url("../img/epicsanspic.png");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-size: 500px, cover;
 	background-position: center 11em;
 }
 #inksans{
 	background-image: url("../img/inksanspic.png");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-size: 500px, cover;
 	background-position: center 11em;
 }
 #errorsans{
 	background-image: url("../img/errorsanspic.png");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-size: 500px, cover;
 	background-position: center 11em;
+	background-color: #070807;
 }
 .epicsanscolor{
 	color: #800080;
+}
+#underverse{
+	width: 50%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
